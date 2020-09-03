@@ -1,0 +1,1 @@
+A simple article about why we should learn to code.
