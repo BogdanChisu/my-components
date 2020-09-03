@@ -1,0 +1,1 @@
+Simple Footer that uses the Bootstrap Solution.
