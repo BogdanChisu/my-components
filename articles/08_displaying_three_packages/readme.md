@@ -1,0 +1,1 @@
+Added a floating technique used for creating layouts.
