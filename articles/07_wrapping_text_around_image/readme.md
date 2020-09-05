@@ -1,0 +1,1 @@
+A simple image wrapping technique described in the codeberry class.
