@@ -1,0 +1,1 @@
+Simple approach to building a non-responsive layout.

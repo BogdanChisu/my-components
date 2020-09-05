@@ -1,0 +1,1 @@
+A simple tutorial for including web resources and making them responsive.
