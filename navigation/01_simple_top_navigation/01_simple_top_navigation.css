@@ -13,6 +13,7 @@ nav {
 nav ul {
   background-color: #eee;
   text-align: center;
+  list-style-type: none;
 }
 
 nav li {
