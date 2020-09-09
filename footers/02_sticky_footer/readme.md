@@ -1,0 +1,1 @@
+A simple sticky footer.
